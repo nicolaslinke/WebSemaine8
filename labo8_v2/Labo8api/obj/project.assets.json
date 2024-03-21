@@ -11118,11 +11118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2185802\\Downloads\\labo8_v2\\Labo8api\\Labo8Api.csproj",
+      "projectUniqueName": "C:\\Users\\2185802\\Downloads\\WebSemaine8\\labo8_v2\\Labo8api\\Labo8Api.csproj",
       "projectName": "Labo8Api",
-      "projectPath": "C:\\Users\\2185802\\Downloads\\labo8_v2\\Labo8api\\Labo8Api.csproj",
+      "projectPath": "C:\\Users\\2185802\\Downloads\\WebSemaine8\\labo8_v2\\Labo8api\\Labo8Api.csproj",
       "packagesPath": "C:\\Users\\2185802\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\2185802\\Downloads\\labo8_v2\\Labo8api\\obj\\",
+      "outputPath": "C:\\Users\\2185802\\Downloads\\WebSemaine8\\labo8_v2\\Labo8api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\2185802\\AppData\\Roaming\\NuGet\\NuGet.Config",
